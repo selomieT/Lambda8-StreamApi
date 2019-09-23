@@ -1,6 +1,9 @@
 package com.st.java8;
 
 public class RunnableExample {
+    //why lambda act as  an instance of interface
+
+
 
     public static void  main(String[]args){
         Thread myThread=new Thread(new Runnable() {
