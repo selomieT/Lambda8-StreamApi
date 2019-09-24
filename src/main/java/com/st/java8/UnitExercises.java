@@ -3,6 +3,7 @@ package com.st.java8;
 import java.util.*;
 
 public class UnitExercises {
+    //comparing java7 and java 8 way
 
     public static void main(String[]args){
 
